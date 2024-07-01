@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1719562254303,
+      "tag": "0000_create-tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1719635340145,
+      "tag": "0001_create-tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1719635881428,
+      "tag": "0002_create-tables",
+      "breakpoints": true
+    }
+  ]
+}

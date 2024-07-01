@@ -1,0 +1,1 @@
+ALTER TABLE `customers` MODIFY COLUMN `id` varchar(256) NOT NULL DEFAULT (uuid());
